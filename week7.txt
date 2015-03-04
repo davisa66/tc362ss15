@@ -1,0 +1,3 @@
+server ip: 104.131.40.229
+davisa66.com
+sub1.davisa66.com
